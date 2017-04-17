@@ -4,7 +4,7 @@ import java.util.List;
 
 public class ClusterBean {
 	
-	public String clusterNum;
+	public String  clusterNum;
 	public String clusterURLs;
 	public String numURLs;
 	public List<String> arrayListofURLsPerCluster;
